@@ -1,0 +1,48 @@
+
+
+body {
+    background-image: url("noisy-background.jpg");
+    background-repeat: repeat;
+}
+
+#contenuto {
+    max-width: 200px;
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 20px;
+    --bs-gutter-x: 0px;
+}
+
+#info {
+    text-align: left;
+}
+
+#noisyBG {
+    opacity: 0.5;
+}
+
+#titoloBlu {
+    font-family: 'Cutive Mono', monospace;
+    font-size: 18px;
+    margin-block-end: 0px;
+}
+
+#info {
+    margin-top: 10px;
+}
+
+#emailBlu {
+    font-family: 'Cutive Mono', monospace;
+    font-size: 18px;
+    line-height: normal;
+
+}
+
+#telefonoBlu {
+    font-family: 'Cutive Mono', monospace;
+    font-size: 18px;
+}
+
+p {
+    margin-bottom: 0px;
+}
