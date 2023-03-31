@@ -27,6 +27,12 @@ body {
     margin-block-end: 0px;
 }
 
+#sottotitolo {
+    font-family: 'Cutive Mono', monospace;
+    font-size: 18px;
+    margin-block-end: 0px;
+}
+
 #info {
     margin-top: 10px;
 }
@@ -35,6 +41,7 @@ body {
     font-family: 'Cutive Mono', monospace;
     font-size: 18px;
     line-height: normal;
+    text-decoration: none;
 
 }
 
